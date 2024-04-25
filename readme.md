@@ -1,1 +1,1 @@
-## 100 days 100 code - Python
+Practise Python Programming through exercises
